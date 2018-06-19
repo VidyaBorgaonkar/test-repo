@@ -1,4 +1,5 @@
+<<<<<<< HEAD
 
 
 
-this is my local c.txt file
+this is my changed  local c.txt file
